@@ -1,0 +1,20 @@
+{
+  "name": "@quick.eco/mongo",
+  "version": "1.0.4",
+  "main": "./src/Manager.js",
+  "description": "Mongodb manager for Quick.eco",
+  "license": "Apache License 2.0",
+  "author": "DevSnowflake",
+  "dependencies": {
+    "mongoose": "^5.10.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevSnowflake/quick.eco-mongo"
+  },
+  "bugs": {
+    "url": "git+https://github.com/DevSnowflake/quick.eco-mongo/issues"
+  },
+  "homepage": "git+https://github.com/DevSnowflake/quick.eco-mongo#README",
+  "keywords": ["quick.eco", "mongodb", "mongoose", "discord", "discord.js", "economy", "eris"]
+}
