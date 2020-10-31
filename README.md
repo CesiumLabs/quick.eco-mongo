@@ -1,9 +1,9 @@
-# Quick.eco Mongo Manager
+### Quick.eco Mongo Manager
 Mongo Manager for Quick.eco
 
 ![Quick.Eco](https://nodei.co/npm/quick.eco.png)
 
-# Quick Example
+### Quick Example
 ```js
 const { EconomyManager } = require('quick.eco');
 const { Client } = require('discord.js');
@@ -30,14 +30,14 @@ client.on('message', (message) => {
 
 ```
 
-# Adapter Options
+### Adapter Options
 - Collection - Mongodb collection name
 - uri - Mongodb URI
 - additionalOptions - Additional Options to pass into mongoose
 
-# Links
+### Links
 - **[Discord Support Server](https://discord.gg/2SUybzb)**
 - **[Quick.eco](https://npmjs.com/package/quick.eco)**
 - **[Mongoose](https://npmjs.com/package/mongoose)**
 
-© Snowflake Studio ❄️ - 2020
+**© Snowflake Studio ❄️ - 2020**
