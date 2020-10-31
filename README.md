@@ -1,7 +1,7 @@
 # Quick.eco Mongo Manager
 Mongo Manager for Quick.eco
 
-![Quick.Eco](https://nodei.co/npm/quickeco.png)
+![Quick.Eco](https://nodei.co/npm/quick.eco.png)
 
 # Quick Example
 ```js
